@@ -1,0 +1,25 @@
+/**
+ * YmiUI组件库内置的css变量
+ */
+page{
+	--el-bg-color: #fff;
+	--el-bg-color-page: #f2f3f5;
+	
+	/* 行为相关颜色 */
+	--ym-color-primary: #465CFF;
+	--ym-color-success: #09BE4F;
+	--ym-color-warning: #FFB703;
+	--ym-color-danger: #FF2B2B;
+	--ym-color-purple: #6831FF;
+	
+	/* 文本相关颜色 */
+	--ym-text-color-primary: #303133;
+	--ym-text-color-regular: #606266;
+	--ym-text-color-secondary: #909399;
+	--ym-text-color-placeholder: #a8abb2;
+	--ym-text-color-disabled: #c0c4cc;
+	
+	--ym-border-color:#dcdfe6;
+	
+	--ym-box-shadow: 0px 12px 32px 4px rgba(0, 0, 0, .04),0px 8px 20px rgba(0, 0, 0, .08);
+}
