@@ -1,0 +1,1 @@
+<view class="ym-form-item data-v-7805610f"><text wx:if="{{a}}" class="ym-lable data-v-7805610f" style="{{'width:' + c + ';' + ('text-align:' + d)}}">{{b}}</text><slot></slot><view class="ym-line data-v-7805610f"></view></view>

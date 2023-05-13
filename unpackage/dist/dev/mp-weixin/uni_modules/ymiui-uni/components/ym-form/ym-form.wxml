@@ -1,0 +1,1 @@
+<form class="ym-form data-v-ced1c671" action="" bindsubmit="{{a}}"><slot></slot></form>

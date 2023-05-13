@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><navigator url="/pages/form/form">表单</navigator><ym-button u-s="{{['d']}}" u-i="a593b87c-0" bind:__l="__l">阿萨的</ym-button></view>

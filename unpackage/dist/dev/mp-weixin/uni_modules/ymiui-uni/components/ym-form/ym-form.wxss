@@ -1,0 +1,9 @@
+
+.ym-form.data-v-ced1c671{
+		/* display: flex; */
+		/* flex-direction: column; */
+}
+.ym-form .ym-form-item .ym-lable.data-v-ced1c671{
+		/* width: 300px !important; */
+}
+

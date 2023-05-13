@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "表单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "ym-section": "../../uni_modules/ymiui-uni/components/ym-section/ym-section",
+    "ym-input": "../../uni_modules/ymiui-uni/components/ym-input/ym-input",
+    "ym-form-item": "../../uni_modules/ymiui-uni/components/ym-form-item/ym-form-item",
+    "ym-form": "../../uni_modules/ymiui-uni/components/ym-form/ym-form"
+  }
+}

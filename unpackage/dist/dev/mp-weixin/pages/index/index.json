@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "ym-button": "../../uni_modules/ymiui-uni/components/ym-button/ym-button"
+  }
+}

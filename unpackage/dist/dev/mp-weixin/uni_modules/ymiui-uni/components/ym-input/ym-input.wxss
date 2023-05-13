@@ -1,0 +1,4 @@
+
+.ym-input{
+		flex: 1;
+}

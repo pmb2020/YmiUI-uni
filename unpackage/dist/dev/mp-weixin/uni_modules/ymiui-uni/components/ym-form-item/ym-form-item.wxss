@@ -1,0 +1,21 @@
+
+.ym-form-item.data-v-7805610f{
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		padding: 14px 16px;
+		box-sizing: border-box;
+		position: relative;
+}
+.ym-lable.data-v-7805610f{
+		margin-right: 15px;
+}
+.ym-line.data-v-7805610f{
+		background-color: #eee;
+		position: absolute;
+		left: 16px;
+		right: 16px;
+		bottom: 0;
+		height: 1px;
+		transform: scaleY(.5) translateZ(0);
+}

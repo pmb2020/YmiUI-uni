@@ -6,7 +6,7 @@
 				<ym-input></ym-input>
 			</ym-form-item>
 			<ym-form-item lable="活动场地">
-				<ym-input></ym-input>
+				<input class="uni-input" type="number" placeholder="这是一个数字输入框" />
 			</ym-form-item>
 			<ym-form-item lable="手机号码">
 				<ym-input></ym-input>

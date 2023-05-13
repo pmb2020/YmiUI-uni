@@ -6,15 +6,6 @@
 				"navigationBarTitleText": "uni-app"
 			}
 		}
-	    ,{
-            "path" : "uni_modules/ymiui-uni/components/ym-form-item/ym-form-item",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "",
-                "enablePullDownRefresh": false
-            }
-            
-        }
         ,{
             "path" : "pages/form/form",
             "style" :                                                                                    
