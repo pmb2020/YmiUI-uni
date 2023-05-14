@@ -14,5 +14,5 @@
 
 <style>
 	/*每个页面公共css */
-	@import url("uni_modules/ymiui-uni/var.css");
+	@import url("uni_modules/ymiui-uni/styles/index.css");
 </style>
